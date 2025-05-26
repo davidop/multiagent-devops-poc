@@ -9,7 +9,7 @@
 
 Esta PoC implementa una arquitectura multiagente basada en Model Context Protocol (MCP) utilizando tecnologías de Microsoft para mejorar tareas de desarrollo: revisión de código, modificación de APIs y validación de cumplimiento.
 
-Basado en las necesidades compartidas por Jesús (OGA), el objetivo es mostrar un sistema tangible y funcional que pueda usarse como prueba ante su jefe y equipo técnico.
+El objetivo es mostrar un sistema tangible y funcional que pueda usarse como prueba ante su jefe y equipo técnico.
 
 ## Casos de Uso Confirmados
 
@@ -134,4 +134,4 @@ pip install -r requirements.txt
 
 ---
 
-Este repositorio demuestra cómo se pueden usar agentes colaborativos con contexto compartido para aumentar la productividad en entornos reales de desarrollo. Jesús, cuando estén listos los dos primeros agentes, te doy acceso directo al entorno de pruebas 😉
+Este repositorio demuestra cómo se pueden usar agentes colaborativos con contexto compartido para aumentar la productividad en entornos reales de desarrollo.
