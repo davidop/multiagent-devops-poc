@@ -6,3 +6,5 @@ local.settings.json
 *.pyc
 .mypy_cache/
 .pytest_cache/
+.vscode/
+.funcignore
