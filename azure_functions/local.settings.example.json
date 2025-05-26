@@ -1,0 +1,6 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AZURE_OPENAI_KEY": "<your-key-here>"
+  }
+}

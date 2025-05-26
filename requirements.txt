@@ -1,0 +1,8 @@
+openai
+azure-functions
+
+pytest
+pytest-cov
+flake8
+black
+codecov

@@ -1,0 +1,5 @@
+{
+  "naming": "camelCase",
+  "security": ["no hardcoded secrets"],
+  "structure": "modular"
+}

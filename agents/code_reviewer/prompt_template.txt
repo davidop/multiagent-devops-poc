@@ -1,0 +1,9 @@
+Analiza el siguiente diff de código:
+
+{{DIFF}}
+
+Indica:
+1. Posibles mejoras de estilo o convenciones
+2. Código duplicado o innecesario
+3. Oportunidades de refactor
+4. Cobertura de tests si aplica

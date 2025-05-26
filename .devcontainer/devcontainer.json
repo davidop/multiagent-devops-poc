@@ -1,0 +1,12 @@
+{
+  "name": "Multiagent DevOps PoC",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "extensions": [
+    "ms-python.python",
+    "ms-azuretools.vscode-azurefunctions"
+  ]
+}

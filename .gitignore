@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+local.settings.json
+.idea/
+*.pyc
+.mypy_cache/
+.pytest_cache/

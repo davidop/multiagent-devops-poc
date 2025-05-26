@@ -1,0 +1,5 @@
+Describe qué cambio deseas aplicar a la API:
+
+{{CAMBIO}}
+
+Especifica los cambios necesarios en controladores, modelos y documentación.
