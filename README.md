@@ -130,7 +130,7 @@ pip install -r requirements.txt
 - ✅ Implementar los agentes con conexión real a Azure OpenAI.
 - ✅ Crear un esquema visual (diagrama) de la arquitectura.
 - 🔜 Añadir logging y trazabilidad entre agentes.
-- 🔜 Preparar demo (video o presentación) para mostrar al equipo de OGA.
+- 🔜 Preparar demo (video o presentación) para mostrar al equipo.
 
 ---
 
